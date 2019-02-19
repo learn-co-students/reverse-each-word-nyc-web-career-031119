@@ -6,7 +6,3 @@ def reverse_each_word(str)
   end
   temp.join(" ")
 end
-
-# def to_str(arr)
-#   temp = ""
-#   arr.each do
